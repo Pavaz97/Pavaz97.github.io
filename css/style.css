@@ -138,6 +138,7 @@ body.active .mscroll {
 	width: 100%;
 	height: auto;
 }
+
 #sidebar-wrapper {
 	top: 0;
   position: fixed;
@@ -278,7 +279,7 @@ body.active .mscroll {
 #OurWork .each-work {
   display: inline-block;
   width: 31%;
-  background-color: #4f4f4f;
+  background-color: #f46674; /*#4f4f4f colore per box grey*/
   margin: 0 8px 10px;
   height: 142px;
   position: relative;
