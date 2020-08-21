@@ -172,13 +172,13 @@ body.active .mscroll {
 }
 #sidebar-wrapper .sidebar-nav li a:hover {
   text-decoration: none;
-  color: #f46674;
+  color: #e6275c;
   transition: all 0.3s;
 }
 #sidebar-wrapper .sidebar-nav li a:active, .sidebar-nav li a:focus {
   text-decoration: none;
   text-decoration: none;
-  color: #f46674;
+  color: #e6275c;
   transition: all 0.3s;
 }
 #sidebar-wrapper .sidebar-nav>.sidebar-brand {
@@ -226,7 +226,7 @@ body.active .mscroll {
   color: #fff;
 }
 .menu-toggle:hover, .menu-toggle.active {
-  background: #f46674;
+  background: #e6275c;
 }
 /* Banner style ends here */
 /* Our Digital services style begins here */
@@ -345,7 +345,7 @@ body.active .mscroll {
 }
 #OurBlog .each-block .icon {
   float: left;
-  background-color: #f46674;
+  background-color: #e6275c;
   padding: 8px 10px 4px;
   margin-right: 16px;
 }
@@ -384,7 +384,7 @@ body.active .mscroll {
     content: "";
     width: 14px;
     height: 14px;
-    background-color: #f46674;
+    background-color: #e6275c;
     position: absolute;
     border-radius: 50%;
     right: -34%;
@@ -399,7 +399,7 @@ body.active .mscroll {
 	text-align: center;
 }
 #OurBlog .learnmore a {
-    background-color: #f46674;
+    background-color: #e6275c;
     color: #fff;
     padding: 20px 30px;
     font: 700 24px/100% 'Futura PT book';
