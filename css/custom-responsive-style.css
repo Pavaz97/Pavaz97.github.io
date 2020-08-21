@@ -148,14 +148,14 @@
 		height: 60vh;
 	}
 	header {
-		background: #cddbee8a; /* Old browsers */
+		background: #f46674; /* Old browsers */
 		position: fixed;
 		width: 100%;
 		padding: 20px;
 		z-index: 99999;
 	}
 	header .mobile-logo {
-		background: #cddbee8a;
+		background: #f46674;
 		display: block;
 		width: 60px;
 	}
