@@ -155,6 +155,7 @@
 		z-index: 99999;
 	}
 	header .mobile-logo {
+		background: #cddbee8a;
 		display: block;
 		width: 60px;
 	}
