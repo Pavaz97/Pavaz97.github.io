@@ -261,7 +261,7 @@ body.active .mscroll {
 /* Our Digital services style ends here */
 /* Our work begin */
 #OurWork {
-  background-color: #414143;
+  background-color: #394A61;
   padding: 60px 0;
 } 
 #OurWork h2 {
@@ -271,7 +271,7 @@ body.active .mscroll {
 	margin-bottom: 40px;
 }
 #OurWork .grey-box {
-  background-color: #4f4f4f;
+  background-color: #67758A;
   padding: 20px;
   height: 300px;
   position: relative;
@@ -279,7 +279,7 @@ body.active .mscroll {
 #OurWork .each-work {
   display: inline-block;
   width: 31%;
-  background-color: #f46674; /*#4f4f4f colore per box grey*/
+  background-color: #67758A; /*#4f4f4f colore per box grey #f46674*/
   margin: 0 8px 10px;
   height: 142px;
   position: relative;
@@ -346,7 +346,7 @@ body.active .mscroll {
 }
 #OurBlog .each-block .icon {
   float: left;
-  background-color: #f46674;
+  background-color: #67758A;
   padding: 8px 10px 4px;
   margin-right: 16px;
 }
@@ -541,7 +541,7 @@ body.active .mscroll {
 #Contact {
 	text-align: center;
 	padding: 70px 0 50px 0;
-	background-color: #333f4f;
+	background-color: #394A61;
 }
 #Contact p {
     color: #c7c5ca;

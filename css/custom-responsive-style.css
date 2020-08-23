@@ -147,15 +147,17 @@
 		width: 100%;
 		height: 60vh;
 	}
+	/* BARRA IN ALTO */
 	header {
-		background: #f46674; /* Old browsers */
+		background: #394A61; /* Old browsers */
 		position: fixed;
 		width: 100%;
 		padding: 20px;
 		z-index: 99999;
 	}
+	/* COLORE LOGO */
 	header .mobile-logo {
-		background: #f46674;
+		background: #394A61;
 		display: block;
 		width: 60px;
 	}
