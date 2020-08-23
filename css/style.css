@@ -21,6 +21,10 @@
 	font-family: 'Futura PT Heavy';
 	src: url("../font/FuturaPTHeavy.otf");
 }
+@font-face{
+  font-family: 'Grey';
+  src: url("../font/GREY.ttf");
+}
 /* Global style begins here */
 body {
 	font-family: 'Futura PT medium';
@@ -90,6 +94,7 @@ body.active #Banner h1  {
 	transition-delay: 1.5s;
 	-ms-transition-delay: 1.5s;
 }
+/* CSS DEL BANNER */
 #Banner h1 {
 	color: #fff;
 	font-size: 80px;
